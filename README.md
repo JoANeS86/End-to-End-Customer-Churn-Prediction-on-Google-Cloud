@@ -81,7 +81,7 @@ Customer churn reduces recurring revenue. The goal is to identify customers at h
 ### 5️⃣ SQL Tasks (BigQuery)
 
 * Create datasets and tables
-* Load raw CSV from Cloud Storage
+* Load raw CSV from Cloud Storage (raw data was ingested into BigQuery using direct file upload due to project billing constraints.)
 * Clean and standardize data
 * Encode categorical variables
 * Create derived features (tenure buckets, service counts, ratios)
