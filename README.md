@@ -91,6 +91,8 @@ Customer churn reduces recurring revenue. The goal is to identify customers at h
 
 ### 6️⃣ Exploratory Data Analysis (Python)
 
+Conducted EDA on BigQuery-hosted analytical tables using Python (Pandas, Matplotlib) in Jupyter.
+
 * Churn rate overview
 * Feature distributions
 * Churn by customer segment
