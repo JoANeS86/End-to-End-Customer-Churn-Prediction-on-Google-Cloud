@@ -8,7 +8,7 @@ Build an end-to-end analytics and machine learning solution on **Google Cloud Pl
 
 ### 2️⃣ Business Framework (PACE)
 
-### **Problem**
+### **Plan**
 
 Customer churn reduces recurring revenue. The goal is to identify customers at high risk of churn and understand the main drivers behind churn behavior.
 
